@@ -8,7 +8,7 @@ The project is in the final stages of testing ... stay tuned for its release
 ![](IMG/qbelt_gantry.png)
 ![](IMG/qbelt_gantry_motor.png)
 ![](IMG/qbelt_mount.png)
-![](IMG/qbelt_z_support.png)
+![](IMG/qbelt_z_support.PNG)
 ![](IMG/qbelt_elettronics.png)
 
 
