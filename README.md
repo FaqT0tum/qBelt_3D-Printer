@@ -8,7 +8,7 @@ The project is in the final stages of testing ... stay tuned for its release
 
 # Fundamental Features
 
-# BOM
+# BOM - Parts list
 
 ## Structure
 
