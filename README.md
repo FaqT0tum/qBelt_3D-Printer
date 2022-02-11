@@ -15,6 +15,11 @@ The project is in the final stages of testing ... stay tuned for its release
 
 # BOM
 
+| Part  |      Description      | Quantity | recommended | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
 # Assembly Guide
 
 # Social
