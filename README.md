@@ -8,6 +8,20 @@ The project is in the final stages of testing ... stay tuned for its release
 
 # Fundamental Features
 
+The project we now call qBelt, was born in 2020 for the purpose of spending time during the Covid-19 pandemic. 
+Up to now, the project has come to life thanks to the advice of friends who have helped me to make it available to everyone with maximum performance in terms of quality and speed.
+
+qBelt with simple 1.7A Nema17 motors was able to exceed 500mm / s at 80k acceleration. 
+The tests continue to access the 48v power supply solution so as to go even faster.
+
+With the configuration of the bridge in Carbon fiber Shape you get an overall weight of the gantry of just 550g (including the equipped mount and MGN9 guides)
+
+The movement of the Z axis is composed of 3 motors that act separately from each other through the belts, 
+
+this guarantees speed and quality thanks to the fact that there are no trapezoidal screws and ball-screws that can cause woobling problems or non-linear movements for a bad assembly. 
+
+Furthermore, it is possible to access the self-calibration of the motors and self-leveling of the BED thanks to a probe placed on the mount, so as to always have the BED level.
+
 # BOM - Parts list
 
 ## Structure
