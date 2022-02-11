@@ -10,7 +10,60 @@ The project is in the final stages of testing ... stay tuned for its release
 
 # BOM
 
-| Part  |      Description      | Quantity | recommended | 
+## Structure
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+## Gantry - Carbon Shape
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+#### Mount
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+## Gantry - Extrude 2020 or Carbon Fiber Tube 20mm
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+#### Mount 
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+## Elevator 
+
+### Z1/2 Axis 
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+### Z3 Axis
+
+| Part  |      Description      | Quantity | Link/File | 
+| :---         |     :---:      |     :---:     |  :---: |
+| Frame   | Size          | 0             |  Link  |
+| Base    | Size           | 0             |  Link  |
+
+## Electronics
+
+| Part  |      Description      | Quantity | Link/File | 
 | :---         |     :---:      |     :---:     |  :---: |
 | Frame   | Size          | 0             |  Link  |
 | Base    | Size           | 0             |  Link  |
