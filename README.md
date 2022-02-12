@@ -1,4 +1,4 @@
-# qBelt The faster 3D Printer (Work In Progress)
+# qBelt 3D Printer (Work In Progress)
 
 The project is in the final stages of testing ... stay tuned for its release
 
