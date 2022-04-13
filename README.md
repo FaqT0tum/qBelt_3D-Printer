@@ -24,51 +24,68 @@ Furthermore, it is possible to access the self-calibration of the motors and sel
 
 # BOM - Parts list
 
-## Structure
+## Structure 500x720x530
 
 | Part  |      Description      | Quantity | Link/File | 
 | :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
+| Extruded Alu Round   | 3030 440mm       | 1              |  Link  |
+| Extruded Alu Round   | 3030 690mm       | 2              |  Link  |
+| Extruded Alu         | 3030 440mm       | 5              |  Link  |
+| Extruded Alu         | 3030 428mm       | 1              |  Link  |
+| Extruded Alu         | 3060 440mm       | 7              |  Link  |
+| Extruded Alu         | 3060 470mm       | 1              |  Link  |
+| Extruded Alu         | 3060 720mm       | 2              |  Link  |
+| Corner               | 2020             | 44             |  Link  |
+| Corner               | 3030             | 6              |  Link  |
+| T-Nut 3030           | M5               | 100            |  Link  |
+| Bolt                 | M5x12 Cap        | 100            |  Link  |
+| Leg                  | M8               | 4              |  Link  |
+| Split Washer         | Inner hole 5mm   | 100            |  Link  |
 
-## Gantry - Carbon Shape
+Approximate cost: 170$
 
-| Part  |      Description      | Quantity | Link/File | 
-| :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
-
-#### Mount
-
-| Part  |      Description      | Quantity | Link/File | 
-| :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
-
-## Gantry - Extrude 2020 or Carbon Fiber Tube 20mm
-
-| Part  |      Description      | Quantity | Link/File | 
-| :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
-
-#### Mount 
+## Gantry + Mount (Carbon Plate)
 
 | Part  |      Description      | Quantity | Link/File | 
 | :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
+| Hiwin MGN09H (Slide)        | X+Y                     | 3              |  Link  |
+| Hiwin MGNR09 (Rails)        | 400mm                   | 2              |  Link  |
+| Hiwin MGNR09 (Rails)        | 370mm                   | 1              |  Link  |
+| LDO 42STH48-2504AC          | X+Y                     | 2              |  Link  |
+| Moons CSE14HRA1L410A 8T     | Extruder                | 1              |  Link  |
+| Coupler                     | D20L25 8x5              | 2              |  Link  |
+| Bearings                    | F608ZZ                  | 4              |  Link  |
+| Bearings                    | F695_2RS                | 20             |  Link  |
+| Pulley 2GT-6                | 20T Hole:5mm            | 2              |  Link  |
+| Idler 2GT-6                 | 20T Hole:5mm            | 2              |  Link  |
+| Extruder Sherpa Mini        | Kit (Only component)    | 1              |  Link  |
+| Probe                       | BLTouch 3.1             | 1              |  Link  |
+| Hotend                      | Dragon ST/HF            | 1              |  Link  |
+| Fan 3010                    | Sunon GM1203PFV3        | 1              |  Link  |
+| Belts                       | Gates-LL-2GT-RF         | 4mt            |  Link  |
+| Rod SS                      | 8x43mm                  | 2              |  Link  |
+| Carbon Plates               | custom cut from dxf     | 1              |  Link  |
+| T-Nut 3030                  |  M5                     | 10             |  Link  |
+| T-Nut 3030                  |  M3                     | 16             |  Link  |
+| Bolt                        |  M3x12                  | 29             |  Link  |
+| Bolt                        |  M3x8                   | 30             |  Link  |
+| Bolt                        |  M3x18                  | 2              |  Link  |
+| Bolt                        |  M3x30                  | 5              |  Link  |
+| Bolt                        |  M3x20                  | 2              |  Link  |
+| Bolt                        |  M3x15                  | 2              |  Link  |
+| Bolt                        |  M3x25                  | 8              |  Link  |
+| Bolt                        |  M4x25                  | 6              |  Link  |
+| Bolt                        |  M5x30                  | 10             |  Link  |
+| Insert                      |  D5L4 M3                | 26             |  Link  |
+| Nut                         |  M3                     | 23             |  Link  |
+| Nut                         |  M4                     | 2              |  Link  |
+| Nut                         |  M5                     | 6              |  Link  |
+| Washer Thin                 |  InnHole 5mm H 0.5mm    | 54             |  Link  |
+| Screw self tapping          |  2.5mm                  | 3              |  Link  |
+
+Approximate cost: 520$
 
 ## Elevator 
-
-### Z1/2 Axis 
-
-| Part  |      Description      | Quantity | Link/File | 
-| :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
-
-### Z3 Axis
 
 | Part  |      Description      | Quantity | Link/File | 
 | :---         |     :---:      |     :---:     |  :---: |
