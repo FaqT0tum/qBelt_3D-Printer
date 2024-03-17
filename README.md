@@ -3,6 +3,9 @@
 ![](IMG/qbelt.png)
 
 
+# THE PROJECT IS COMPLETE BUT BEFORE FULL PUBLICATION I NEED TIME TO ORGANIZE THE GIT.
+## IT IS POSSIBLE TO VIEW THE CAD TO UNDERSTAND THE PROJECT
+
 
 # Fundamental Features
 
@@ -87,15 +90,12 @@ Approximate cost: 520$
 
 | Part  |      Description      | Quantity | Link/File | 
 | :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
 
 ## Electronics
 
 | Part  |      Description      | Quantity | Link/File | 
 | :---         |     :---:      |     :---:     |  :---: |
-| Frame   | Size          | 0             |  Link  |
-| Base    | Size           | 0             |  Link  |
+
 
 # Assembly Guide
 
