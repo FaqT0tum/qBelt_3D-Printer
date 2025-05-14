@@ -97,7 +97,6 @@ Approximate cost: 520$
 | :---         |     :---:      |     :---:     |  :---: |
 
 
-# Assembly Guide
 
 # Social
 
